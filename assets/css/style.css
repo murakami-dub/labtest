@@ -12,3 +12,11 @@
 body {
     font-family: 'Sixtyfour Convergence', sans-serif;
 }
+header {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 1rem 0;
+}
+main {
+    padding: 2rem;
+}
